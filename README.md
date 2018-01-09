@@ -5,3 +5,7 @@
 
 注意：
 activity的主题需要时noactionbar或者其子类,否则系统会自动添加一个状态栏高度的头部
+
+
+效果
+![](https://github.com/LiuLinXin/TransparencyFromWindows/blob/master/trans.png)
