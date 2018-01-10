@@ -4,7 +4,7 @@
 2.在setcontentview之后设置new TransHelper(MainActivity.this).transContent(getResources().getColor(R.color.statusBarColor));
 
 注意：
-activity的主题需要时noactionbar或者其子类,否则系统会自动添加一个状态栏高度的头部
+activity的主题需要是noactionbar或者其子类,否则系统会自动添加一个状态栏高度的头部
 
 
 效果
